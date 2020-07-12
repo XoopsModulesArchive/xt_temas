@@ -1,0 +1,22 @@
+<?php
+// O nome deste módulo
+define("_XT_TE_NOME","XT Temas");
+
+// Descrição Para o Módulo
+define("_XT_TE_DESCRI","Exibe o Bloco de temas com opção para o usuário usar o mesmo tema sempre que se logar.");
+
+// Nome para o Bloco
+define("_XT_TE_BLOCO","Temas");
+
+// Descrição para o Bloco
+define("_XT_TE_BLOCO_DESCRI","Exibe o bloco de temas com opção para que o usuário mantenha o mesmo tema sempre que efetuar login no site.");
+
+
+
+//***********************************************************************//
+// Não Altere Abaixo!!! Do not change below!!!                           //
+//***********************************************************************//
+
+define("_XT_TE_DIR", "xt_temas");
+
+?>
